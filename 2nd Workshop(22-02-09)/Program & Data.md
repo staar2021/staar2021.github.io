@@ -23,7 +23,7 @@
 |7|재난 ICT 연구 동향|연구발표|권영우|경북대 Intelligent Software Systems Lab|
 |8|[논리 기반 정형 명세 및 모델 검증](https://github.com/staar2021/staar2021.github.io/files/8536037/erc-2022-winter.pdf)|연구발표|배경민|POSTECH Software Verification Lab|
 |9|[STL 모델 검증 및 응용](https://github.com/staar2021/staar2021.github.io/files/8535908/STL.pdf)|연구발표|이지아|POSTECH Software Verification Lab|
-|10|한양대학교 프로그램 합성 및 분석 연구|연구발표|이우석|한양대 Programming Systems Lab|
+|10|[한양대학교 프로그램 합성 및 분석 연구](https://github.com/staar2021/staar2021.github.io/files/8536216/ercsw_20220210.pdf)|연구발표|이우석|한양대 Programming Systems Lab|
 |11|[정적 분석과 데이터를 활용한 오류 검출: 보편적 오류와 특수한 오류](https://github.com/staar2021/staar2021.github.io/files/8536043/default.pdf)|연구발표|허기홍|KAIST Programming Systems Lab|
 |12|[BayeSmith: 정적 분석 알람을 위한 확률 모델 학습](https://github.com/staar2021/staar2021.github.io/files/8536045/default.pdf)|연구발표|김현수|KAIST Programming Systems Lab|
 |13|[버그 탐정 트레이서: 반복되는 오류 탐지 시스템](https://github.com/staar2021/staar2021.github.io/files/8536046/default.pdf)|연구발표|강우석| KAIST Programming Systems Lab|
