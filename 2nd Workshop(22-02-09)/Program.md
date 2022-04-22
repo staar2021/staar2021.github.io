@@ -21,12 +21,13 @@
 |5|OS-in-the-Loop CEGAR for the verification of multitasking  embedded control software|연구발표|김동우|경북대 SSE Lab|
 |6|배터리 관리 패러다임 전환: BMS-as-a-Service 기반의 배터리 진단|초청강의|한세경|경북대|
 |7|재난 ICT 연구 동향|연구발표|권영우|경북대 Intelligent Software Systems Lab|
-|8|논리 기반 정형 명세 및 모델 검증|연구발표|배경민|POSTECH Software Verification Lab|
+|8|[논리 기반 정형 명세 및 모델 검증](https://github.com/staar2021/staar2021.github.io/files/8536037/erc-2022-winter.pdf)
+|연구발표|배경민|POSTECH Software Verification Lab|
 |9|[STL 모델 검증 및 응용](https://github.com/staar2021/staar2021.github.io/files/8535908/STL.pdf)|연구발표|이지아|POSTECH Software Verification Lab|
 |10|한양대학교 프로그램 합성 및 분석 연구|연구발표|이우석|한양대 Programming Systems Lab|
-|11|정적 분석과 데이터를 활용한 오류 검출: 보편적 오류와 특수한 오류|연구발표|허기홍|KAIST Programming Systems Lab|
-|12|BayeSmith: 정적 분석 알람을 위한 확률 모델 학습|연구발표|김현수|KAIST Programming Systems Lab|
-|13|버그 탐정 트레이서: 반복되는 오류 탐지 시스템|연구발표|강우석| KAIST Programming Systems Lab|
+|11|[정적 분석과 데이터를 활용한 오류 검출: 보편적 오류와 특수한 오류](https://github.com/staar2021/staar2021.github.io/files/8536043/default.pdf)|연구발표|허기홍|KAIST Programming Systems Lab|
+|12|[BayeSmith: 정적 분석 알람을 위한 확률 모델 학습](https://github.com/staar2021/staar2021.github.io/files/8536045/default.pdf)|연구발표|김현수|KAIST Programming Systems Lab|
+|13|[버그 탐정 트레이서: 반복되는 오류 탐지 시스템](https://github.com/staar2021/staar2021.github.io/files/8536046/default.pdf)|연구발표|강우석| KAIST Programming Systems Lab|
 
 ## 2022. 02. 11.(Fri)
 |순번|제목|종류|발표자|소속|
@@ -36,4 +37,4 @@
 |3|Return of CFA: Call-Site Sensitivity Can Be Superior to Object  Sensitivity Even for Object-Oriented Programs|연구발표|전민석|고려대 Software Analysis Lab|
 |4|NPEX: Fixing Null Pointer Exception Without Tests|연구발표|이준희|고려대 Software Analysis Lab|
 |5|Context-aware and data-driven feedback generation for  programming assignments|연구발표|송도원|고려대 Software Analysis Lab|
-|6|FAngelix, Verifix, and Poracle|연구발표|이주용|UNIST|
+|6|[FAngelix, Verifix, and Poracle](https://github.com/staar2021/staar2021.github.io/files/8536042/ERC-.-2022.-2.pdf)|연구발표|이주용|UNIST|
