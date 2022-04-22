@@ -22,7 +22,8 @@
 |6|배터리 관리 패러다임 전환: BMS-as-a-Service 기반의 배터리 진단|초청강의|한세경|경북대|
 |7|재난 ICT 연구 동향|연구발표|권영우|경북대 Intelligent Software Systems Lab|
 |8|논리 기반 정형 명세 및 모델 검증|연구발표|배경민|POSTECH Software Verification Lab|
-|9|STL 모델 검증 및 응용|연구발표|이지아|POSTECH Software Verification Lab|
+|9|STL 모델 검증 및 응용[STL 모델 검증 및 응용.pdf](https://github.com/staar2021/staar2021.github.io/files/8535908/STL.pdf)
+|연구발표|이지아|POSTECH Software Verification Lab|
 |10|한양대학교 프로그램 합성 및 분석 연구|연구발표|이우석|한양대 Programming Systems Lab|
 |11|정적 분석과 데이터를 활용한 오류 검출: 보편적 오류와 특수한 오류|연구발표|허기홍|KAIST Programming Systems Lab|
 |12|BayeSmith: 정적 분석 알람을 위한 확률 모델 학습|연구발표|김현수|KAIST Programming Systems Lab|
