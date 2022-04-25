@@ -4,7 +4,7 @@
 |순번|제목|종류|발표자|소속|
 |:----:|:----------------------------------------------------------:|:------------:|:----------------------------------:|:---------------------------------------:|
 |1|[와글와글 ERC, 절체절명 메모리반도체, 요놈봐라 기계학습](https://github.com/staar2021/staar2021.github.io/files/8551884/2._.pdf)|초청강연|이광근|서울대|
-|2|JavaScript Static Analysis for Evolving Language Specifications|연구발표|박지혁|KAIST PLRG|
+|2|[JavaScript Static Analysis for Evolving Language Specifications](https://github.com/staar2021/staar2021.github.io/files/8552166/erc22-workshop_jhpark_github.pdf)|연구발표|박지혁|KAIST PLRG|
 |3|로그분석 관련 연구 마일스톤 발표|연구발표|탁병철|경북대 CLODIS Lab|
 |4|코드 변화를 고려한 효율적인 Continuous Fuzzing|연구발표|홍신|한동대 ARISE Lab|
 |5|Learning-based Mutant Reduction for Debugging|연구발표|김윤호|한양대 SE 연구실|
@@ -36,5 +36,5 @@
 |2|고려대학교 프로그램 자동 수정 연구 소개|연구발표|오학주|고려대 Software Analysis Lab|
 |3|Return of CFA: Call-Site Sensitivity Can Be Superior to Object  Sensitivity Even for Object-Oriented Programs|연구발표|전민석|고려대 Software Analysis Lab|
 |4|NPEX: Fixing Null Pointer Exception Without Tests|연구발표|이준희|고려대 Software Analysis Lab|
-|5|Context-aware and data-driven feedback generation for  programming assignments|연구발표|송도원|고려대 Software Analysis Lab|
+|5|Context-aware and data-driven feedback generation for programming assignments|연구발표|송도원|고려대 Software Analysis Lab|
 |6|[FAngelix, Verifix, and Poracle](https://github.com/staar2021/staar2021.github.io/files/8536042/ERC-.-2022.-2.pdf)|연구발표|이주용|UNIST|
