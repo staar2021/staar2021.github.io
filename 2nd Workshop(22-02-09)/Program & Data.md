@@ -3,13 +3,14 @@
 ## 2022. 02. 09.(Wed)
 |순번|제목|종류|발표자|소속|
 |:----:|:----------------------------------------------------------:|:------------:|:----------------------------------:|:---------------------------------------:|
-|1|JavaScript Static Analysis for Evolving Language  Specifications|연구발표|박지혁|KAIST PLRG|
-|2|로그분석 관련 연구 마일스톤 발표|연구발표|탁병철|경북대 CLODIS Lab|
-|3|코드 변화를 고려한 효율적인 Continuous Fuzzing|연구발표|홍신|한동대 ARISE Lab|
-|4|Learning-based Mutant Reduction for Debugging|연구발표|김윤호|한양대 SE 연구실|
-|5|무지개연구소 기업 소개 / 현실화 되고 있는 무인이동체 시대를 이끌어가는 기술|기업체발표|대표 김용덕|무지개연구소|
-|6|슈어소프트 기업 소개 / 슈어소프트 SW 안전 검증 핵심 기술|기업체발표|팀장 한준수,부사장 오승욱|슈어소프트테크|
-|7|우리나라 공공안전 IT서비스의 현재와 미래|기업체발표|이사 백두현|위니텍|
+|1|[와글와글 ERC, 절체절명 메모리반도체, 요놈봐라 기계학습](https://github.com/staar2021/staar2021.github.io/files/8551884/2._.pdf)|초청강연|이광근|서울대|
+|2|JavaScript Static Analysis for Evolving Language Specifications|연구발표|박지혁|KAIST PLRG|
+|3|로그분석 관련 연구 마일스톤 발표|연구발표|탁병철|경북대 CLODIS Lab|
+|4|코드 변화를 고려한 효율적인 Continuous Fuzzing|연구발표|홍신|한동대 ARISE Lab|
+|5|Learning-based Mutant Reduction for Debugging|연구발표|김윤호|한양대 SE 연구실|
+|6|무지개연구소 기업 소개 / 현실화 되고 있는 무인이동체 시대를 이끌어가는 기술|기업체발표|대표 김용덕|무지개연구소|
+|7|슈어소프트 기업 소개 / 슈어소프트 SW 안전 검증 핵심 기술|기업체발표|팀장 한준수,부사장 오승욱|슈어소프트테크|
+|8|우리나라 공공안전 IT서비스의 현재와 미래|기업체발표|이사 백두현|위니텍|
 
 ## 2022. 02. 10.(Thu)
 |순번|제목|종류|발표자|소속|
@@ -19,7 +20,7 @@
 |3|동적 데이터 기반 SW유닛들 사이의 관련도 메트릭 정의|연구발표|김문주|KAIST SWTV|
 |4|다중작업 내장형 제어소프트웨어를 위한 속성 검증 자동화|연구발표|최윤자|경북대 SSE Lab|
 |5|OS-in-the-Loop CEGAR for the verification of multitasking  embedded control software|연구발표|김동우|경북대 SSE Lab|
-|6|배터리 관리 패러다임 전환: BMS-as-a-Service 기반의 배터리 진단|초청강의|한세경|경북대|
+|6|[배터리 관리 패러다임 전환: BMS-as-a-Service 기반의 배터리 진단](https://github.com/staar2021/staar2021.github.io/files/8551888/default.pdf)|초청강의|한세경|경북대|
 |7|재난 ICT 연구 동향|연구발표|권영우|경북대 Intelligent Software Systems Lab|
 |8|[논리 기반 정형 명세 및 모델 검증](https://github.com/staar2021/staar2021.github.io/files/8536037/erc-2022-winter.pdf)|연구발표|배경민|POSTECH Software Verification Lab|
 |9|[STL 모델 검증 및 응용](https://github.com/staar2021/staar2021.github.io/files/8535908/STL.pdf)|연구발표|이지아|POSTECH Software Verification Lab|
