@@ -21,7 +21,7 @@
 |4|다중작업 내장형 제어소프트웨어를 위한 속성 검증 자동화|연구발표|최윤자|경북대 SSE Lab|
 |5|OS-in-the-Loop CEGAR for the verification of multitasking  embedded control software|연구발표|김동우|경북대 SSE Lab|
 |6|[배터리 관리 패러다임 전환: BMS-as-a-Service 기반의 배터리 진단](https://github.com/staar2021/staar2021.github.io/files/8551888/default.pdf)|초청강연|한세경|경북대|
-|7|재난 ICT 연구 동향|연구발표|권영우|경북대 Intelligent Software Systems Lab|
+|7|[재난 ICT 연구 동향](https://github.com/staar2021/staar2021.github.io/files/8580987/ERC_.pdf)|연구발표|권영우|경북대 Intelligent Software Systems Lab|
 |8|[논리 기반 정형 명세 및 모델 검증](https://github.com/staar2021/staar2021.github.io/files/8536037/erc-2022-winter.pdf)|연구발표|배경민|POSTECH Software Verification Lab|
 |9|[STL 모델 검증 및 응용](https://github.com/staar2021/staar2021.github.io/files/8535908/STL.pdf)|연구발표|이지아|POSTECH Software Verification Lab|
 |10|[한양대학교 프로그램 합성 및 분석 연구](https://github.com/staar2021/staar2021.github.io/files/8536216/ercsw_20220210.pdf)|연구발표|이우석|한양대 Programming Systems Lab|
