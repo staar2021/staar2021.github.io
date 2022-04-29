@@ -19,7 +19,7 @@
 |2|V+Lab: AI를 활용한 저비용 고효율  SW 자동 테스팅 도구 CROWN 2.0|기업발표|대표 김문주|브이플러스랩 (V+ Lab)|
 |3|[동적 데이터 기반 SW유닛들 사이의 관련도 메트릭 정의](https://github.com/staar2021/staar2021.github.io/files/8587413/SW.-v1.pdf)|연구발표|김문주|KAIST SWTV|
 |4|[다중작업 내장형 제어소프트웨어를 위한 속성 검증 자동화](https://github.com/staar2021/staar2021.github.io/files/8581499/sselab_milestone.pdf)|연구발표|최윤자|경북대 SSE Lab|
-|5|OS-in-the-Loop CEGAR for the verification of multitasking embedded control software|연구발표|김동우|경북대 SSE Lab|
+|5|[OS-in-the-Loop CEGAR for the verification of multitasking embedded control software](https://github.com/staar2021/staar2021.github.io/files/8587489/presentation_DongwooKim.pdf)|연구발표|김동우|경북대 SSE Lab|
 |6|[배터리 관리 패러다임 전환: BMS-as-a-Service 기반의 배터리 진단](https://github.com/staar2021/staar2021.github.io/files/8551888/default.pdf)|초청강연|한세경|경북대|
 |7|[재난 ICT 연구 동향](https://github.com/staar2021/staar2021.github.io/files/8580987/ERC_.pdf)|연구발표|권영우|경북대 Intelligent Software Systems Lab|
 |8|[논리 기반 정형 명세 및 모델 검증](https://github.com/staar2021/staar2021.github.io/files/8536037/erc-2022-winter.pdf)|연구발표|배경민|POSTECH Software Verification Lab|
