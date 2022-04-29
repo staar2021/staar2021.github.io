@@ -17,7 +17,7 @@
 |:----:|:----------------------------------------------------------:|:------------:|:----------------------------------:|:---------------------------------------:|
 |1|FormalWorks: A case  study on formal verification of smart contract for financial block chain|기업발표|정세훈박사<br/>(검증팀장)|포멀웍스|
 |2|V+Lab: AI를 활용한 저비용 고효율  SW 자동 테스팅 도구 CROWN 2.0|기업발표|대표 김문주|브이플러스랩 (V+ Lab)|
-|3|동적 데이터 기반 SW유닛들 사이의 관련도 메트릭 정의|연구발표|김문주|KAIST SWTV|
+|3|[동적 데이터 기반 SW유닛들 사이의 관련도 메트릭 정의](https://github.com/staar2021/staar2021.github.io/files/8587413/SW.-v1.pdf)|연구발표|김문주|KAIST SWTV|
 |4|[다중작업 내장형 제어소프트웨어를 위한 속성 검증 자동화](https://github.com/staar2021/staar2021.github.io/files/8581499/sselab_milestone.pdf)|연구발표|최윤자|경북대 SSE Lab|
 |5|OS-in-the-Loop CEGAR for the verification of multitasking embedded control software|연구발표|김동우|경북대 SSE Lab|
 |6|[배터리 관리 패러다임 전환: BMS-as-a-Service 기반의 배터리 진단](https://github.com/staar2021/staar2021.github.io/files/8551888/default.pdf)|초청강연|한세경|경북대|
@@ -33,8 +33,8 @@
 |순번|제목|종류|발표자|소속|
 |:----:|:----------------------------------------------------------:|:------------:|:----------------------------------:|:---------------------------------------:|
 |1|[Tracking patches that fix bugs found by static bug finders](https://github.com/staar2021/staar2021.github.io/files/8580226/STAAR.2022.Workshop.pdf)|연구발표|김동선|경북대|
-|2|고려대학교 프로그램 자동 수정 연구 소개|연구발표|오학주|고려대 Software Analysis Lab|
-|3|Return of CFA: Call-Site Sensitivity Can Be Superior to Object  Sensitivity Even for Object-Oriented Programs|연구발표|전민석|고려대 Software Analysis Lab|
-|4|NPEX: Fixing Null Pointer Exception Without Tests|연구발표|이준희|고려대 Software Analysis Lab|
+|2|[고려대학교 프로그램 자동 수정 연구 소개](https://github.com/staar2021/staar2021.github.io/files/8587471/slides_erc_modified.pdf)|연구발표|오학주|고려대 Software Analysis Lab|
+|3|[Return of CFA: Call-Site Sensitivity Can Be Superior to Object  Sensitivity Even for Object-Oriented Programs](https://github.com/staar2021/staar2021.github.io/files/8587478/CFA_slide_modified.pdf)|연구발표|전민석|고려대 Software Analysis Lab|
+|4|[NPEX: Fixing Null Pointer Exception Without Tests](https://github.com/staar2021/staar2021.github.io/files/8587480/220209_junhee_ERC.pdf)|연구발표|이준희|고려대 Software Analysis Lab|
 |5|[Context-aware and data-driven feedback generation for programming assignments](https://github.com/staar2021/staar2021.github.io/files/8581517/CAFE.pdf)|연구발표|송도원|고려대 Software Analysis Lab|
 |6|[FAngelix, Verifix, and Poracle](https://github.com/staar2021/staar2021.github.io/files/8536042/ERC-.-2022.-2.pdf)|연구발표|이주용|UNIST|
