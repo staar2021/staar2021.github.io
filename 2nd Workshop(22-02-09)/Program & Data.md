@@ -1,4 +1,4 @@
-# 2nd Winter Workshop in Jeju  (2022. 02. 09. ~ 2022. 02. 11.)
+# 2022 Winter Workshop in Jeju (2022. 02. 09. ~ 2022. 02. 11.)
 
 ## 2022. 02. 09.(Wed)
 |순번|제목|종류|발표자|소속|
