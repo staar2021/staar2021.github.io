@@ -3,3 +3,4 @@
 
 * 1st Workshop in KNU(Daegu)
 * 2nd Workshop in The Grand Sumorum(Jeju)
+* 3rd Workshop in Lahan Hotel(Pohang)
