@@ -363,3 +363,16 @@ table.imgtable, table.imgtable td {
 .table_contents tr td {
 	vertical-align: middle;
 }
+
+
+div.menu-main {
+	cursor: pointer;
+	background: url(/images/arr_down.png) 100% 50% no-repeat;
+}
+div.menu-main.active {
+	background: url(/images/arr_up.png) 100% 50% no-repeat;
+}
+
+div.menu-sub {
+	display: none;
+}

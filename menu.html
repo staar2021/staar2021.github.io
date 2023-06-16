@@ -1,23 +1,33 @@
 <div class="menu-category">STAAR</div>
 <div class="menu-item"><a href="index.html" id="home">Home</a></div>
-<div class="menu-category">5th Workshop<br>(2023.07.)</div>
-<div class="menu-item"><a href="ready.html">Introduction</a></div>
-<div class="menu-item"><a href="05_Workshop.html">Programs</a></div>
-<div class="menu-item"><a href="ready.html">Photos</a></div>
-<div class="menu-category">4th Workshop<br>(2023.02.)</div>
-<div class="menu-item"><a href="4th Workshop(23-02-01)/2023 Winter Workshop.pdf" target="_blank">Introduction</a></div>
-<div class="menu-item"><a href="04_Workshop.html">Programs</a></div>
-<div class="menu-item"><a href="04_Photo.html">Photos</a></div>
-<div class="menu-category">3rd Workshop<br>(2022.07.)</div>
-<div class="menu-item"><a href="3rd Workshop(22-07-13)/2022 Summer Workshop.pdf" target="_blank">Introduction</a></div>
-<div class="menu-item"><a href="03_Workshop.html">Programs</a></div>
-<div class="menu-item"><a href="03_Photo.html">Photos</a></div>
-<div class="menu-category">2nd Workshop<br>(2022.02.)</div>
-<div class="menu-item"><a href="2nd Workshop(22-02-09)/2022 Winter Workshop.pdf" target="_blank">Introduction</a></div>
-<div class="menu-item"><a href="02_Workshop.html">Programs</a></div>
-<div class="menu-item"><a href="02_Photo.html">Photos</a></div>
-<div class="menu-category">1st Workshop<br>(2021.07.)</div>
-<div class="menu-item"><a href="1st Workshop(21-07-14)/2021 Kick-off Workshop.pdf" target="_blank">Introduction</a></div>
+<div class="menu-category menu-main">5th Workshop<br>(2023.07.)</div>
+<div class="menu-sub">
+    <div class="menu-item"><a href="ready.html">Introduction</a></div>
+    <div class="menu-item"><a href="05_Workshop.html">Programs</a></div>
+    <div class="menu-item"><a href="ready.html">Photos</a></div>
+</div>
+<div class="menu-category menu-main">4th Workshop<br>(2023.02.)</div>
+<div class="menu-sub">
+    <div class="menu-item"><a href="4th Workshop(23-02-01)/2023 Winter Workshop.pdf" target="_blank">Introduction</a></div>
+    <div class="menu-item"><a href="04_Workshop.html">Programs</a></div>
+    <div class="menu-item"><a href="04_Photo.html">Photos</a></div>
+</div>
+<div class="menu-category menu-main">3rd Workshop<br>(2022.07.)</div>
+<div class="menu-sub">
+    <div class="menu-item"><a href="3rd Workshop(22-07-13)/2022 Summer Workshop.pdf" target="_blank">Introduction</a></div>
+    <div class="menu-item"><a href="03_Workshop.html">Programs</a></div>
+    <div class="menu-item"><a href="03_Photo.html">Photos</a></div>
+</div>
+<div class="menu-category menu-main">2nd Workshop<br>(2022.02.)</div>
+<div class="menu-sub">
+    <div class="menu-item"><a href="2nd Workshop(22-02-09)/2022 Winter Workshop.pdf" target="_blank">Introduction</a></div>
+    <div class="menu-item"><a href="02_Workshop.html">Programs</a></div>
+    <div class="menu-item"><a href="02_Photo.html">Photos</a></div>
+</div>
+<div class="menu-category menu-main">1st Workshop<br>(2021.07.)</div>
+<div class="menu-sub">
+    <div class="menu-item"><a href="1st Workshop(21-07-14)/2021 Kick-off Workshop.pdf" target="_blank">Introduction</a></div>
+</div>
 <div class="menu-category">Contact</div>
 <div class="menu-item"><a href="contact.html">STAAR-Location</a></div>
 <div class="menu-category">Since 2022.05.<br><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstaar2021.github.io%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div>
@@ -31,12 +41,28 @@
                 if($( this ).attr("href") == path)
                 {
                     $( this ).addClass("current");
+                    if($( this ).parent().parent().hasClass("menu-sub"))
+                    {
+                        $( this ).parent().parent().show();
+                    }
                 }
             });
         }
         else
         {
             $("#home").addClass("current");
-        }        
+        }      
+        
+        
+        $(".menu-main").on("click", function() {
+            if($(this).hasClass("active")) {
+                $(this).removeClass("active").next().stop(true,true).slideUp(200);
+            }
+            else {
+                $(this).addClass("active").next().stop(true,true).slideDown(200);
+            }
+            return false;
+        });
+        
     });
 </script>
