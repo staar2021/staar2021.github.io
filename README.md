@@ -3,6 +3,9 @@
 
 Webpage : https://staar2021.github.io/
 
-* 1st Workshop in KNU(Daegu)
-* 2nd Workshop in The Grand Sumorum(Jeju)
-* 3rd Workshop in Lahan Hotel(Pohang)
+* 1st Kick-off Workshop in KNU(Daegu)
+* 2nd Winter Workshop in The Grand Sumorum(Jeju)
+* 3rd Summer Workshop in Lahan Hotel(Pohang)
+* 4th Winter Workshop in Library Stay Jijihyang(Paju)
+* 5th Summer Workshop in Mercure Hotels(Ulsan))
+* 6th Winter Workshop in KAIST(Daejeon)) - Expected
